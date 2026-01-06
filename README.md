@@ -1,4 +1,3 @@
-Leo.github.io
 # Hi there, I'm Leo 👋 
 
 ### 🚀 About Me
